@@ -1,2 +1,2 @@
 # PES UNIVERSITY 
-UE19CS305-Machine-Intelligence-Laboratory
+This repo contains lab assignments for UE19CS305-Machine-Intelligence-Laboratory
